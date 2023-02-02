@@ -17,7 +17,7 @@ Hi! I'm known on the internet as FuryForever but my real name is Messias. I am a
 + + Sass/Scss.
 + ### DataBases:
 + + Firebase;
-+ + Prisma/SQL/NoSQL.
++ + SQL/NoSQL.
 + ### Android:
 + + React Native;
 + + Kotlin/Android Studio.
