@@ -1,7 +1,7 @@
 > # Summary:
   
 > ## ❓┃Who am I?
-Hi! I'm known on the internet as FuryForever but my real name is Messias. I am a Brazilian student and Full Stack developer.
+Hi! My internet alias is FuryForever, but my real name is Messias. I am a Brazilian student and a Full Stack developer.
 
 > ## ⌨️┃Skills:
 + ### Back-end:
