@@ -8,7 +8,11 @@ Hi! My internet alias is FuryForever, but my real name is Messias. I am a Brazil
 + + JS/Node;
 + + Python;
 + + PHP;
-+ + C#.
++ + Java;
++ + C#;
++ + ExpressJS;
++ + FastAPI;
++ + NextJS.
 + ### Front-end:
 + + HTML/CSS;
 + + ReactJs;
@@ -18,6 +22,7 @@ Hi! My internet alias is FuryForever, but my real name is Messias. I am a Brazil
 + + Sass/Scss.
 + ### DataBases:
 + + Firebase;
++ + MongoDB.
 + + SQL/NoSQL.
 + ### Android:
 + + React Native;
