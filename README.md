@@ -22,7 +22,7 @@ Hi! My internet alias is FuryForever, but my real name is Messias. I am a Brazil
 + + Sass/Scss.
 + ### DataBases:
 + + Firebase;
-+ + MongoDB.
++ + MongoDB;
 + + SQL/NoSQL.
 + ### Android:
 + + React Native;
