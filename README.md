@@ -33,6 +33,8 @@ Hi! My internet alias is FuryForever, but my real name is Messias. I am a Brazil
 + ### Tools:
 + + Git/GitHub/GitLab.
 
-![Furyforever's Github Stats](https://github-readme-stats.vercel.app/api?username=Furyforev3r&show_icons=true&theme=dracula)
+![Furyforever's Github Stats](https://github-readme-stats.vercel.app/api?username=Furyforev3r&count_private=true&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furyforev3r&layout=compact&theme=dracula)](https://github.com/Furyforev3r)
+
+[![FuryForever's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Furyforev3r&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
