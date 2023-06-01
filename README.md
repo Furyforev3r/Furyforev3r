@@ -26,7 +26,7 @@ Hi! My internet alias is FuryForever, but my real name is Messias. I am a Brazil
 + + SQL/NoSQL.
 + ### Android:
 + + React Native;
-+ + Kotlin/Android Studio.
++ + Kotlin/Java/Android Studio.
 + ### GameDev:
 + + Construct 3;
 + + Unity2D/3D.
