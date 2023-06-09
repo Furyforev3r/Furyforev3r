@@ -4,12 +4,12 @@
 ## ⌨️┃ Skills:
 
 ### Back-end:
-+ **JS/Node, Python, PHP, Java, C#, ExpressJS, FastAPI, NextJS.**
++ **JS/Node, Typescript, Python, PHP, Java, C#, ExpressJS, FastAPI, NextJS.**
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,php,java,cs,expressjs,fastapi,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,python,php,java,cs,expressjs,fastapi,nextjs)](https://skillicons.dev)
 ---
 ### Front-end:
-+ **HTML/CSS, ReactJs, NextJS, TypeScript, Tailwind CSS, Sass/Scss.**
++ **HTML/CSS, ReactJs, NextJS, TypeScript, Tailwind CSS, Vite, Styled Components, Sass/Scss.**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,sass,scss,vite,styledcomponents)](https://skillicons.dev)
 ---
