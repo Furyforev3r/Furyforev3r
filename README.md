@@ -4,32 +4,32 @@
 ## ⌨️┃ Skills:
 
 ### Back-end:
-+ ***JS/Node, Python, PHP, Java, C#, ExpressJS, FastAPI, NextJS.***
++ **JS/Node, Python, PHP, Java, C#, ExpressJS, FastAPI, NextJS.**
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,php,java,cs,expressjs,fastapi,nextjs)](https://skillicons.dev)
 ---
 ### Front-end:
-+ ***HTML/CSS, ReactJs, NextJS, TypeScript, Tailwind CSS, Sass/Scss.***
++ **HTML/CSS, ReactJs, NextJS, TypeScript, Tailwind CSS, Sass/Scss.**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,sass,scss,vite,styledcomponents)](https://skillicons.dev)
 ---
 ### DataBases:
-+ ***Firebase, MongoDB, SQL/NoSQL.***
++ **Firebase, MongoDB, SQL/NoSQL.**
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,sqlite)](https://skillicons.dev)
 ---
 ### Android:
-+ ***React Native, Kotlin/Java/Android Studio.***
++ **React Native, Kotlin/Java/Android Studio.**
 
 [![My Skills](https://skillicons.dev/icons?i=react,kotlin,java,androidstudio)](https://skillicons.dev)
 ---
 ### GameDev:
-+ ***Construct 3, Unity2D/3D.***
++ **Construct 3, Unity2D/3D.**
 
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 ---
 ### Tools:
-+ ***Git/GitHub/GitLab, Vercel, Bash, Powershell, Vscode/VisualStudio, Discord, Gradle, (JetBrains)Idea, Linux, Markdown, Photoshop, Replit, SublimeText.***
++ **Git/GitHub/GitLab, Vercel, Bash, Powershell, Vscode/VisualStudio, Discord, Gradle, (JetBrains)Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
 
 [![My Skills](https://skillicons.dev/icons?i=vercel,git,github,gitlab,bash,powershell,vscode,visualstudio,discord,gradle,idea,linux,md,ps,replit)](https://skillicons.dev)
 ## 📊 | Github Stats!
