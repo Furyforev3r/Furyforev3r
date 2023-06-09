@@ -36,8 +36,8 @@
 ![Furyforever's Github Stats](https://github-readme-stats.vercel.app/api?username=Furyforev3r&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furyforev3r&layout=compact&theme=dracula)
-<div align="center">
-  <h2> 🎵 | Recently played on Spotify!</h2>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=zc80ofmfaed1nk2xijgr5ue4u&cover_image=true&theme=default&show_offline=false&background_color=1a1a1a&interchange=true&bar_color=ebebeb&bar_color_cover=true"></img>
-</div>
+
+## 🎵 | Recently played on Spotify!
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zc80ofmfaed1nk2xijgr5ue4u&cover_image=true&theme=default&show_offline=false&background_color=1a1a1a&interchange=true&bar_color=ebebeb&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zc80ofmfaed1nk2xijgr5ue4u&redirect=true)
+
 <!-- [![Furyforev3r's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Furyforev3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
