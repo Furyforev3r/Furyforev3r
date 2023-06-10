@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 ---
 ### Tools:
-+ **Vercel, Git/GitHub/GitLab, Bash, Powershell, Vscode/Visualstudio, Discord, Gradle, (JetBrains)Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
++ **Vercel, Git/GitHub/GitLab, Bash, Powershell, Vscode/Visual Studio, Discord, Gradle, (JetBrains)Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
 
 [![My Skills](https://skillicons.dev/icons?i=vercel,git,github,gitlab,bash,powershell,vscode,visualstudio,discord,gradle,idea,linux,md,ps,replit)](https://skillicons.dev)
 ## 📊 | Github Stats!
