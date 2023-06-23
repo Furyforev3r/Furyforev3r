@@ -4,14 +4,14 @@
 ## ⌨️┃ Skills:
 
 ### Back-end:
-+ **JS/Node, Typescript, Python, PHP, Java, C#, ExpressJS, FastAPI, NextJS, jQuery.**
++ **JS/Node, Typescript, Python, PHP, Java, C#, ExpressJS, FastAPI, NextJS.**
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,python,php,java,cs,expressjs,fastapi,nextjs,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,python,php,java,cs,expressjs,fastapi,nextjs)](https://skillicons.dev)
 ---
 ### Front-end:
-+ **HTML/CSS, ReactJs, NextJS, VueJS, Typescript, Tailwind CSS, Vite, Styled Components, Sass/Scss.**
++ **HTML/CSS, ReactJs, NextJS, VueJS, Typescript, Tailwind CSS, Vite, Styled Components, Sass/Scss, jQuery.**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,typescript,tailwind,vite,styledcomponents,sass,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,typescript,tailwind,vite,styledcomponents,sass,scss,jquery)](https://skillicons.dev)
 ---
 ### DataBases:
 + **Firebase, MongoDB, SQL/NoSQL.**
