@@ -29,9 +29,9 @@
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 ---
 ### Tools:
-+ **Vercel, Git/GitHub/GitLab, Bash, Powershell, Visual Studio Code/Visual Studio, Discord, Gradle, (JetBrains) Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
++ **Vercel, AWS, Git/GitHub/GitLab, Bash, Powershell, Visual Studio Code/Visual Studio, Discord, Gradle, (JetBrains) Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,git,github,gitlab,bash,powershell,vscode,visualstudio,discord,gradle,idea,linux,md,ps,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,aws,git,github,gitlab,bash,powershell,vscode,visualstudio,discord,gradle,idea,linux,md,ps,replit)](https://skillicons.dev)
 ## 📊 | Github Stats!
 
 <!-- ![Furyforever's Github Stats](https://github-readme-stats.vercel.app/api?username=Furyforev3r&count_private=true&show_icons=true&theme=dracula) -->
