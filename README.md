@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,python,php,java,cs,expressjs,fastapi,nextjs)](https://skillicons.dev)
 ---
 ### Front-end:
-+ **HTML/CSS, ReactJs, NextJS, VueJS, NuxtJS, TypeScript, Tailwind CSS, Vite, Styled Components, Sass/Scss, jQuery.**
++ **HTML/CSS, ReactJS, NextJS, VueJS, NuxtJS, TypeScript, Tailwind CSS, Vite, Styled Components, Sass/Scss, jQuery.**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,nuxtjs,typescript,tailwind,vite,styledcomponents,sass,scss,jquery)](https://skillicons.dev)
 ---
