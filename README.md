@@ -33,7 +33,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vercel,aws,git,github,gitlab,bash,powershell,vscode,visualstudio,discord,gradle,idea,linux,md,ps,replit)](https://skillicons.dev)
 ## 📊 | Github Stats!
-
+![Profile Views!](https://komarev.com/ghpvc/?username=furyforev3r) (06/16/2023)
 <!-- ![Furyforever's Github Stats](https://github-readme-stats.vercel.app/api?username=Furyforev3r&count_private=true&show_icons=true&theme=dracula) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furyforev3r&layout=compact&theme=dracula)
