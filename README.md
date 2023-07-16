@@ -35,7 +35,7 @@
 ## 📊 | Github Stats!
 <!-- ![Furyforever's Github Stats](https://github-readme-stats.vercel.app/api?username=Furyforev3r&count_private=true&show_icons=true&theme=dracula) -->
 
-![Profile Views!](https://komarev.com/ghpvc/?username=furyforev3r) - **(06/16/2023)**
+![Profile Views!](https://komarev.com/ghpvc/?username=furyforev3r)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furyforev3r&layout=compact&theme=dracula)
 
