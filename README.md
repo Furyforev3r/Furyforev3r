@@ -9,9 +9,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,python,php,java,cs,rust,expressjs,fastapi,nextjs)](https://skillicons.dev)
 ---
 ### Front-end:
-+ **HTML/CSS, ReactJS, NextJS, VueJS, NuxtJS, TypeScript, Tailwind CSS, Vite, Styled Components, Sass/Scss, jQuery.**
++ **HTML/CSS, ReactJS, NextJS, VueJS, NuxtJS, TypeScript, Tailwind CSS, Vite, Styled Components, Sass/Scss, jQuery, Tauri.**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,nuxtjs,typescript,tailwind,vite,styledcomponents,sass,scss,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,nuxtjs,typescript,tailwind,vite,styledcomponents,sass,scss,jquery,tauri)](https://skillicons.dev)
 ---
 ### DataBases:
 + **Firebase, MongoDB, SQL/NoSQL.**
