@@ -16,7 +16,7 @@
 ### DataBases:
 + **Firebase, MongoDB, SQL/NoSQL.**
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,sqlite)](https://skillicons.dev)
+[![My Databases Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,sqlite)](https://skillicons.dev)
 ---
 ### Android:
 + **React Native, Kotlin/Java/Android Studio.**
