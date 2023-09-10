@@ -6,7 +6,7 @@
 ### Back-end:
 + **JS/Node, TypeScript, Python, PHP, Java, C#, Rust, ExpressJS, FastAPI, NextJS.**
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,python,php,java,cs,rust,expressjs,fastapi,nextjs)](https://skillicons.dev)
+[![My Back-end Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,python,php,java,cs,rust,expressjs,fastapi,nextjs)](https://skillicons.dev)
 ---
 ### Front-end:
 + **HTML/CSS, ReactJS, NextJS, VueJS, NuxtJS, TypeScript, Tailwind CSS, Vite, Styled Components, Sass/Scss, jQuery, Tauri.**
