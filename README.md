@@ -11,7 +11,7 @@
 ### Front-end:
 + **HTML/CSS, ReactJS, NextJS, VueJS, NuxtJS, TypeScript, Tailwind CSS, Vite, Styled Components, Sass/Scss, jQuery, Tauri.**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,nuxtjs,typescript,tailwind,vite,styledcomponents,sass,scss,jquery,tauri)](https://skillicons.dev)
+[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,vuejs,nuxtjs,typescript,tailwind,vite,styledcomponents,sass,scss,jquery,tauri)](https://skillicons.dev)
 ---
 ### DataBases:
 + **Firebase, MongoDB, SQL/NoSQL.**
