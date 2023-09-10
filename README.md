@@ -21,7 +21,7 @@
 ### Android:
 + **React Native, Kotlin/Java/Android Studio.**
 
-[![My Skills](https://skillicons.dev/icons?i=react,kotlin,java,androidstudio)](https://skillicons.dev)
+[![My Android Skills](https://skillicons.dev/icons?i=react,kotlin,java,androidstudio)](https://skillicons.dev)
 ---
 ### GameDev:
 + **Construct 3, Unity2D/3D.**
