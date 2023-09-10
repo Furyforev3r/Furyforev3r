@@ -26,7 +26,7 @@
 ### GameDev:
 + **Construct 3, Unity2D/3D.**
 
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+[![My Gamedev Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 ---
 ### Tools:
 + **Vercel, AWS, Git/GitHub/GitLab, Bash, Powershell, Visual Studio Code/Visual Studio, Discord, Gradle, (JetBrains) Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
