@@ -45,3 +45,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zc80ofmfaed1nk2xijgr5ue4u&cover_image=true&theme=default&show_offline=false&background_color=1a1a1a&interchange=true&bar_color=ebebeb&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zc80ofmfaed1nk2xijgr5ue4u&redirect=true)
 
 <!-- [![Furyforev3r's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Furyforev3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+---
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/furyforever)
