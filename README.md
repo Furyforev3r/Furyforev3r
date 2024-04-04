@@ -24,9 +24,9 @@
 [![My Android Skills](https://skillicons.dev/icons?i=react,kotlin,java,androidstudio)](https://skillicons.dev)
 ---
 ### GameDev:
-+ **Construct 3, Unity2D/3D.**
++ **Construct 3, Unity2D/3D, Godot2D/3D.**
 
-[![My Gamedev Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+[![My Gamedev Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
 ---
 ### Tools:
 + **Vercel, AWS, Git/GitHub/GitLab, Bash, Powershell, Visual Studio Code/Visual Studio, Discord, Gradle, (JetBrains) Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
