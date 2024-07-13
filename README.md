@@ -29,9 +29,9 @@
 [![My Gamedev Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
 ---
 ### Tools:
-+ **Vercel, AWS, Git/GitHub/GitLab, Bash, Powershell, Visual Studio Code/Visual Studio, Discord, Gradle, (JetBrains) Idea, Linux, Markdown, Photoshop, Replit, SublimeText.**
++ **Vercel, AWS, Git, Gradle, Linux.**
 
-[![My Tools](https://skillicons.dev/icons?i=vercel,aws,git,github,gitlab,bash,powershell,vscode,visualstudio,discord,gradle,idea,linux,md,ps,replit)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vercel,aws,git,gradle,linux)](https://skillicons.dev)
 ## 📊 | Github Stats!
 <!-- ![Furyforever's Github Stats](https://github-readme-stats.vercel.app/api?username=Furyforev3r&count_private=true&show_icons=true&theme=dracula) -->
 
