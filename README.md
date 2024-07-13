@@ -1,7 +1,7 @@
-# ❓┃ Who am I?
-> **Hi! My internet alias is FuryForever, but my real name is Messias Robson. I am a Brazilian student and a Full Stack developer.**
+# Hi there 👋!
+**I'm Rob (or FuryForever), a Brazilian Full Stack Developer who loves spending the day in front of the computer writing code!**
 
-## ⌨️┃ Skills:
+# ⌨️┃ Skills:
 
 ### Back-end:
 + **JS/Node, TypeScript, Python, PHP, Java, C#, Rust, Go, ExpressJS, FastAPI, NextJS, NestJS.**
