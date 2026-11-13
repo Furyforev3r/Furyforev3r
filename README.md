@@ -1,5 +1,5 @@
 # Hi there 👋!
-**I'm Messias (Rob, Messik and FuryForever are my nicknames) and I am a Software engineer!**
+**I'm Messias and I am a Software engineer!**
 
 http://furyforever.vercel.app/
 
